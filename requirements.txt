@@ -1,5 +1,5 @@
-python==3.8
 streamlit
 yfinance
 plotly
+pystan==2.18.0.0
 fbprophet
