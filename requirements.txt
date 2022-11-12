@@ -1,3 +1,4 @@
+click==7.1
 matplotlib
 streamlit==0.82.0
 convertdate
@@ -5,7 +6,6 @@ convertdate
 plotly==4.14.3
 --pre fbprophet==0.7.1
 yfinance==0.1.59
-click==7.1
 pystan
 FBProphet
 lunarcalendar
