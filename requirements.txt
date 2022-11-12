@@ -1,5 +1,6 @@
 pip
 wheel
+Cython
 setuptools
 pipwin
 swig
