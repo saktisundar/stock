@@ -3,3 +3,5 @@ fbprophet
 yfinance
 plotly
 convertdate
+numpy
+pystan
