@@ -1,8 +1,4 @@
 streamlit
 yfinance
 plotly
-convertdate
-pandas==1.5.1
-numpy==1.23
-pystan==2.16
-fbprophet==0.6
+prophet
