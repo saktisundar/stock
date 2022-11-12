@@ -5,5 +5,6 @@ convertdate
 plotly==4.14.3
 --pre fbprophet==0.7.1
 yfinance==0.1.59
+pystan
 FBProphet
 lunarcalendar
