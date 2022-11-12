@@ -4,4 +4,4 @@ numpy
 yfinance
 plotly
 Cython>=0.22
-fbprophet
+fbprophet[numpy,pandas,Prophet]
