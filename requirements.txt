@@ -1,6 +1,6 @@
 click==7.1
 matplotlib
-streamlit==0.82.0
+streamlit==0.8.0
 convertdate
 --pre pystan==2.19.1.1
 plotly==4.14.3
