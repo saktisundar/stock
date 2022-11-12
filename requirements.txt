@@ -1,4 +1,4 @@
-
+matplotlib
 streamlit==0.82.0
 convertdate
 --pre pystan==2.19.1.1
