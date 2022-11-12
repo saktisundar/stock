@@ -1,0 +1,5 @@
+streamlit
+fbprophet
+yfinance
+plotly
+convertdate
