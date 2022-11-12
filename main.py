@@ -56,6 +56,3 @@ st.write('Forecast data')
 fig1 = plot_plotly(m, forecast)
 st.plotly_chart(fig1)
 
-st.write('Forecast components')
-fig1 = m.model_components(forecast)
-st.write(fig1)
