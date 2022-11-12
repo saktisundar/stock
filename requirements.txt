@@ -8,4 +8,4 @@ pystan==2.19.1.1
 yfinance
 streamlit
 plotly
-fbprophet
+fbprophet==1.0
