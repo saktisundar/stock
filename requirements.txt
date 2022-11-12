@@ -3,4 +3,4 @@ yfinance
 plotly
 numpy
 Cython>=0.22
-prophet
+fbprophet
