@@ -1,5 +1,7 @@
 pip
 wheel
+setuptools
+pipwin
 pandas >= 1.3.5
 jupyter >= 1.0.0
 ipykernel >= 6.6.1
