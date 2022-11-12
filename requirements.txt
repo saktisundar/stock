@@ -1,4 +1,4 @@
-Python==3.6
+python3==3.6
 Cython
 numpy
 pandas
