@@ -1,7 +1,7 @@
 streamlit
 pystan
+numpy
 yfinance
 plotly
-numpy
 Cython>=0.22
 fbprophet
