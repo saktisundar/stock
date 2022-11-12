@@ -1,5 +1,7 @@
 streamlit
 yfinance
 plotly
+numpy
+Cython>=0.22
 pystan==2.18.0.0
 prophet
