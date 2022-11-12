@@ -1,7 +1,8 @@
-streamlit
-pystan
-numpy
 yfinance
+convertdate
+pystan==3.0.1
+yfinance==0.1.55
+streamlit==0.78.0
+plotly==4.14.3
+fbprophet==0.7.1
 plotly
-Cython>=0.22
-fbprophet[pystan,numpy,pandas,Prophet]
