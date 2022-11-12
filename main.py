@@ -3,8 +3,8 @@ import streamlit as st
 from datetime import date
 
 import yfinance as yf
-from prophet import Prophet
-from prophet.plot import plot_plotly
+from fbprophet import Prophet
+from fbprophet.plot import plot_plotly
 from plotly  import graph_objs as go
 
 START = "2015-01-01"
@@ -56,3 +56,6 @@ st.write('Forecast data')
 fig1 = plot_plotly(m, forecast)
 st.plotly_chart(fig1)
 
+st.write('Forecast components')
+fig2 = m.plot_components(forecast)
+st.write(fig2)
