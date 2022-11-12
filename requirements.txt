@@ -16,7 +16,7 @@ scipy
 seaborn >= 0.11.2
 sklearn
 --pre PyStan == 2.19.1.1
---pre fbprophet
+fbprophet --no-cache-dir
 
 pytest >= 5.2
 flake8 >= 4.0.1
